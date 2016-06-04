@@ -1,1 +1,1 @@
-# igloo-cmd
+# iglo-cmd
